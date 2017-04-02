@@ -1,5 +1,5 @@
 # iSet.NoGoal
-Camp Nanowrimo - April, 2017
+<i>Camp Nanowrimo - April, 2017</i>
 ## About
 A book of free-form poetry.
 <br><br>
